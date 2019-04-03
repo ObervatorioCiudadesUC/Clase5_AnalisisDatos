@@ -10,7 +10,7 @@
 # install.packages (c("tidyverse", "sf"))
 
 library(tidyverse) 
-library(sf)        
+  
 
 # Analisis de datos Censo 2017 a nivel de zona censal ---------------------
 # Obtener un promedio de años de escolaridad por Zona Censal
